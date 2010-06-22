@@ -1,0 +1,5 @@
+setuptools-trial (0.5.10-1sg0) unstable; urgency=low
+
+  * Debianized.
+
+ -- Ian Eure <ian@simplegeo.com>  Tue, 22 Jun 2010 15:46:24 -0700

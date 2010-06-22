@@ -1,0 +1,26 @@
+This work was packaged for Debian by:
+
+    Ian Eure <ian@simplegeo.com> on Tue, 22 Jun 2010 08:50:24 -0700
+
+It was downloaded from http://pypi.python.org/pypi/setuptools_trial
+
+Upstream Author(s):
+
+    Chris Galvan <cgalvan@enthought.com>
+
+Copyright:
+
+    Copyright (C) 2010 Chris Galvan
+
+License:
+
+Permission is hereby granted to any person obtaining a copy of this work to
+deal in this work without restriction (including the rights to use, modify,
+distribute, sublicense, and/or sell copies).
+
+The Debian packaging is:
+
+    Copyright (C) 2010 SimpleGeo, Inc.
+
+
+and is licensed under the BSD license, see `/usr/share/common-licenses/BSD'.
