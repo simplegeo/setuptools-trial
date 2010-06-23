@@ -1,3 +1,9 @@
+setuptools-trial (0.5.10-1sg4) lucid; urgency=low
+
+  * UNRELEASED
+
+ -- SimpleGeo Nerds <nerds@simplegeo.com>  Wed, 23 Jun 2010 18:27:19 +0000
+
 setuptools-trial (0.5.10-1sg3) lucid; urgency=low
 
   [ Ian Eure ]
