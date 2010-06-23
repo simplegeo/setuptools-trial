@@ -1,3 +1,12 @@
+setuptools-trial (0.5.10-1sg3) lucid; urgency=low
+
+  [ Ian Eure ]
+  * Build-depend on setuptools.
+
+  [ SimpleGeo Nerds ]
+
+ -- SimpleGeo Nerds <nerds@simplegeo.com>  Wed, 23 Jun 2010 18:23:20 +0000
+
 setuptools-trial (0.5.10-1sg0) unstable; urgency=low
 
   * Debianized.
